@@ -1,10 +1,10 @@
 # An LSTM Odyssey
 
-Code for training variants of "LSTM: A Search Space Odyssey"<br>
-Original code is from [here](https://github.com/fomorians/lstm-odyssey)<br>
-Using TensorFlow r1.0 instead of r0.7.
+1. Code for training variants of "LSTM: A Search Space Odyssey"
+2. Original code is from [here](https://github.com/fomorians/lstm-odyssey).
+3. Adapt to TensorFlow r1.0.
 
-# Local Setup
+## Local Setup
 
 1. Install TensorFlow r1.0.
 2. Clone the repo.
