@@ -1,5 +1,7 @@
 .DS_Store
 *.pyc
+*.ipynb
+*.toml
 .env/
 checkpoints/
 logs/
